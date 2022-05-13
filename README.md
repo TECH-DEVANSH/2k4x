@@ -24,4 +24,4 @@ cd 2k4x
 
 python 2k4X.py
 
-Note : this tools id paid so you need permition to use 2k4X tools
+Note : this tools is paid so you need permition to use 2k4X tools
